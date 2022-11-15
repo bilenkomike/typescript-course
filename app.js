@@ -1,4 +1,5 @@
-var handle = function (num1, num2) {
-  return num1 + num2;
+var person = {
+    name: "Miek",
+    age: 30
 };
-console.log(handle(5, 3));
+console.log(person);

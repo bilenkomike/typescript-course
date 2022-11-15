@@ -1,5 +1,5 @@
-const handle = (num1: number, num2: number): number => {
-  return num1 + num2;
+const person = {
+  name: "Miek",
+  age: 30,
 };
-
-console.log(handle(5, 3));
+console.log(person);
